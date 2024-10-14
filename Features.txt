@@ -1,0 +1,64 @@
+1. البيانات الشخصية (User Profile):
+العمر (Age)
+الجنس (Gender)
+الوزن (Weight)
+الطول (Height)
+نسبة الدهون في الجسم (Body Fat Percentage)
+
+
+2. بيانات النظام الغذائي (Diet Information):
+نوع النظام الغذائي (Diet Type)
+السعرات الحرارية اليومية (Daily Caloric Intake)
+المغذيات الأساسية (Nutrient Breakdown)
+كمية المياه (Water Intake)
+
+
+3. بيانات التمارين الرياضية (Workout Information):
+نوع التمرين (Exercise Type)
+مدة التمرين (Exercise Duration)
+كثافة التمرين (Exercise Intensity)
+السعرات الحرارية المحروقة (Calories Burned)
+عدد التكرارات (Repetitions)
+المسافة المقطوعة (Distance Covered)
+
+
+4. البيانات الصحية (Health Metrics):
+معدل ضربات القلب (Heart Rate)
+ضغط الدم (Blood Pressure)
+مستوى السكر في الدم (Blood Sugar Levels)
+نسبة الأوكسجين في الدم (Oxygen Saturation)
+
+
+5. أهداف اللياقة (Fitness Goals):
+فقدان الوزن (Weight Loss Goal)
+زيادة الكتلة العضلية (Muscle Gain Goal)
+التحضير لمسابقة أو تحدي رياضي (Competition Preparation)
+
+
+6. البيانات الزمنية (Time-Based Data):
+عدد ساعات النوم (Sleep Hours)
+أوقات تناول الوجبات (Meal Times)
+أوقات التمارين (Workout Times)
+
+
+7. العوامل النفسية (Psychological Factors):
+مستوى الطاقة (Energy Levels)
+مستوى التوتر (Stress Levels)
+الحالة المزاجية (Mood)
+
+
+8. البيانات البيئية (Environmental Data):
+درجة حرارة الجو (Temperature)
+الرطوبة (Humidity)
+الارتفاع عن سطح البحر (Altitude)
+
+
+9. التاريخ الطبي (Medical History):
+الحالات الصحية المزمنة (Chronic Conditions)
+الأدوية (Medications)
+الحساسية (Allergies)
+
+
+10. الأنشطة البدنية اليومية (Daily Physical Activity):
+عدد الخطوات اليومية (Daily Steps)
+عدد الدرجات التي تم صعودها (Floors Climbed)
